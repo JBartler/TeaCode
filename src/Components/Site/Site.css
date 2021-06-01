@@ -1,0 +1,14 @@
+.title{
+    background-color: #54b2ba;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+input{
+    width: 100%;
+    height: 35px;
+    border: none;
+}
+
