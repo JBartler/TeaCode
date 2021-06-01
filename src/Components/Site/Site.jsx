@@ -8,7 +8,7 @@ export default function Site() {
     const [users,setUsers]= useState([])
     const [searchTerm, setSearchTerm] = useState('')
 
-    useEffect(() => {
+    useEffect(() => { 
         getCrew()
     },[]);
 
